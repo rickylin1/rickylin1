@@ -16,7 +16,7 @@ Student @ UIUC :corn:!
 ## Get in Touch
 - I'd love to connect to talk about my work or any project opportunities!
 - 📫 You can reach me via email at [rickyl3@illinois.edu](mailto:rickyl3@illinois.edu)
-- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/ricky-lin1)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ricky-lin1)
 
 
 #### :sunny: Feel free to look through my portfolio to get a better idea of what I'm building! 
