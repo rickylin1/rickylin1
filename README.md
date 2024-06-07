@@ -1,6 +1,6 @@
 # Welcome :open_hands: 
 
-#### I'm Ricky and I'm a 
+#### I'm Ricky 
 :computer: CS & Stat :bar_chart: 
 
 Student @ UIUC :corn:!
