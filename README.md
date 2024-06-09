@@ -7,7 +7,7 @@
 
 
 
-:collision: My passion lies in creative ideas and **building** exciting products 
+:collision: My passion lies in brainstorming creative ideas and **building** exciting products 
 
 ## Languages & Frameworks
 - `Python, JavaScript, C++, Java, Swift, HTML, CSS, Bash`
