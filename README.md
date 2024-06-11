@@ -10,7 +10,7 @@
 :collision: My passion lies in brainstorming creative ideas and **building** exciting products 
 
 ## Languages & Frameworks
-- `Python, JavaScript, C++, Java, Swift, HTML, CSS, Bash`
+- `Python, JavaScript/Typescript, C++, Java, Swift, HTML, CSS, Bash`
 - `React, Node, Express, Flask, Firebase, AWS, Pandas, MatplotLib, Scikit-learn, Tensorflow, Pytorch`
 
 ## Get in Touch
