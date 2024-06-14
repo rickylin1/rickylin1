@@ -9,9 +9,10 @@
 
 :collision: My passion lies in brainstorming creative ideas and **building** exciting products 
 
-## Languages & Frameworks
+## Technologies
 - `Python, JavaScript/Typescript, C++, Java, Swift, HTML, CSS, Bash`
-- `React, Node, Express, Flask, Firebase, AWS, Pandas, MatplotLib, Scikit-learn, Tensorflow, Pytorch`
+- `React, Node, Express, Flask, Pandas, MatplotLib, Scikit-learn, Tensorflow, Pytorch`
+- `Docker, AWS, Firebase`
 
 ## Get in Touch
 - I'd love to connect to talk about my work or any project opportunities!
