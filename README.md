@@ -5,6 +5,8 @@
 
 @ UIUC :corn:!
 
+[Learn more about me!](https://personalportfolio-six-theta.vercel.app/)
+
 
 
 :collision: My passion lies in brainstorming creative ideas and **building** exciting products 
