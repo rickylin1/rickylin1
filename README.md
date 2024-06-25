@@ -13,7 +13,9 @@
 
 ## Technologies
 - `Python, JavaScript/Typescript, C++, Java, Swift, HTML, CSS, Bash`
-- `React, Node, Express, Flask, Pandas, MatplotLib, Scikit-learn, Tensorflow, Pytorch`
+- `React, Node, Express, Flask`
+- `Pandas, MatplotLib, Numpy, Seaborn, Scikit-learn, Tensorflow, Pytorch`
+- `PIL, Librosa, Selenium, Beautifulsoup`
 - `Docker, AWS, Firebase`
 
 ## Get in Touch
