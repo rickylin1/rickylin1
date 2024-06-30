@@ -5,7 +5,7 @@
 
 @ UIUC :corn:!
 
-[Learn more about me!](https://personalportfolio-six-theta.vercel.app/)
+[Learn more about me!](https://www.rickylin.us/)
 
 
 
