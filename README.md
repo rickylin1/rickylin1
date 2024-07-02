@@ -1,15 +1,15 @@
-# Welcome :open_hands: 
+# Welcome :hand:
 
 #### I'm Ricky 
 :computer: CS & Stat :bar_chart: 
 
 @ UIUC :corn:!
 
-[Learn more about me!](https://www.rickylin.us/)
+[My website!](https://www.rickylin.us/)
 
 
 
-:collision: My passion lies in brainstorming creative ideas and **building** exciting products 
+:collision: I love brainstorming ideas and **building** products 
 
 ## Technologies
 - `Python, JavaScript/Typescript, C++, Java, Swift, HTML, CSS, Bash`
@@ -24,7 +24,7 @@
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ricky-lin1)
 
 
-#### :sunny: Feel free to look through my portfolio to get a better idea of what I'm building! 
+#### :sunny: Feel free to look through my projects to get a better idea of what I'm building! 
 Thank you for visiting! I hope you find something interesting here. 😊
 
 
