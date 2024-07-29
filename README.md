@@ -11,6 +11,8 @@
 
 :collision: I love brainstorming ideas and **building** products 
 
+🧠 Currently learning deep learning, cloud computing, data science
+
 ## Technologies
 - `Python, JavaScript/Typescript, C++, Java, Swift, HTML, CSS, Bash`
 - `React, Node, Express, Flask`
