@@ -3,7 +3,7 @@
 #### I'm Ricky 
 :computer: CS & Stat :bar_chart: 
 
-@ UIUC :corn:!
+:corn: @ UIUC 
 
 [My website!](https://www.rickylin.us/)
 
