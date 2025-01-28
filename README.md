@@ -5,8 +5,6 @@
 
 :corn: @ UIUC 
 
-[My website!](https://www.rickylin.us/)
-
 
 
 :collision: I love brainstorming ideas and **building** products 
